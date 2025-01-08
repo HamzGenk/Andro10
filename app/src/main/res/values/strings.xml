@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BATTLE SCORE</string>
+    <string name="SetTeam">Set Team</string>
+    <string name="Toast">Mari Mengadili</string>
+    <string name="Count1">Count</string>
+    <string name="Count2">Count</string>
+    <string name="input_dialog_title">Input Team Names and Max Points</string>
+    <string name="ok">Yes, Sir!</string>
+    <string name="cancel">Cancel</string>
+    <string name="invalid_input">Invalid input. Please enter valid numbers.</string>
+    <string name="winner_dialog_title">We have a winner!</string>
+    <string name="winner_dialog_message"> wins!</string>
+</resources>
